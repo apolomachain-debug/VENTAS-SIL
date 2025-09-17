@@ -91,7 +91,7 @@ export const initializeDefaultData = async () => {
       { name: 'Gatorade', category: 'Bebidas', price: 800, stock: 15, minStock: 3 },
       { name: 'Coca Cola', category: 'Bebidas', price: 600, stock: 25, minStock: 5 },
       { name: 'INVITADO', category: 'Deportes', price: 12000, stock: 30, minStock: 10 },
-      { name: 'LUZ FICHA', category: 'Deportes', price: 3500, stock: 100, minStock: 2 }
+      { name: 'LUZ FICHA', category: 'Deportes', price: 3500, stock: 100, minStock: 2 },
       { name: 'PALETA-ALQUILER', category: 'Deportes', price: 5000, stock: 100, minStock: 2 }
     ];
     for (const product of defaultProducts) {
